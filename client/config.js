@@ -1,0 +1,5 @@
+const WIDTH = 960,
+    HEIGHT = 480,
+    PADDLE_DEFAULT_HEIGHT = 96,
+    PADDLE_MARGIN = 64,
+    BALL_SIZE = 16;
